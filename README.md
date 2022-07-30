@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marwahaifawi
 - 👀 I’m interested in programming and designing 
-- 🌱 I’m currently learning how to develope websites, become UX designer.
+- 🌱 I’m currently learning how to be a frontEnd website developer and also a UX designer.
 - 📫 reach me by email:marwa.10102.mm@gmail.com or facebook account: marwa fawzi salah.
 
 <!---
