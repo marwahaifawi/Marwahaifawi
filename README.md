@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **marwa.fawzi.salah@gmail.com**
 
-- 📄 Know about my experiences [https://c64a252f-b14a-42aa-bc40-7564a9b87914.filesusr.com/ugd/1b1f78_5573edd83af04709b6730d5cb011fae4.pdf](https://c64a252f-b14a-42aa-bc40-7564a9b87914.filesusr.com/ugd/1b1f78_5573edd83af04709b6730d5cb011fae4.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marwasalah252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwasalah252" height="30" width="40" /></a>
