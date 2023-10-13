@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my UX projects are available at [https://marwa10102mm.wixsite.com/marwasalah](https://marwa10102mm.wixsite.com/marwasalah)
 
-- 📫 How to reach me **marwa.10102.mm@gmail.com**
+- 📫 How to reach me **marwa.fawzi.salah@gmail.com**
 
 - 📄 Know about my experiences [https://c64a252f-b14a-42aa-bc40-7564a9b87914.filesusr.com/ugd/1b1f78_5573edd83af04709b6730d5cb011fae4.pdf](https://c64a252f-b14a-42aa-bc40-7564a9b87914.filesusr.com/ugd/1b1f78_5573edd83af04709b6730d5cb011fae4.pdf)
 
