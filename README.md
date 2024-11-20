@@ -6,7 +6,7 @@
 <img align="right" width=300 src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwahaifawi&label=Profile%20views&color=0e75b6&style=flat" alt="marwahaifawi" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently working as a Frontend Developer with **ReactJS**
 
 - 👨‍💻 All of my UX projects are available at [https://marwa10102mm.wixsite.com/marwasalah](https://marwa10102mm.wixsite.com/marwasalah)
 
